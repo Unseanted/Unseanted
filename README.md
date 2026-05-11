@@ -1,6 +1,6 @@
 # About Me
 
-## 👋 Hi, I'm Unseanted!
+## 👋 Hi, Samuel Sean, you can call me :Unseanted!
 
 I'm a passionate Software Engineer with a strong background in designing, building, and maintaining scalable applications. My journey in tech has equipped me with a robust set of skills across the software development lifecycle, from ideation and architecture to deployment and optimization.
 
@@ -46,9 +46,9 @@ I'm currently diving deeper into cloud-native architectures, distributed systems
 
 - GitHub: [Unseanted](https://github.com/Unseanted)
 - LinkedIn: *(Add your LinkedIn link here)*
-- Twitter/X: *(Add your Twitter/X handle here)*
+- Twitter/X: *(X.com/xinbadt)*
 - Dev.to: *(Add your Dev.to link here)*
-- Email: *(Add your email address here if you wish to share it)*
+- Email: *(Sinbad4u007@yahoo.com)*
 
 ---
 
